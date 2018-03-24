@@ -190,7 +190,7 @@
 	/* Set your background with this */
 
 		background: #348cb2 url("images/bg.jpg") bottom left;
-		background-repeat: repeat-x;
+		background-repeat: round;
 		height: 100%;
 		left: 0;
 		opacity: 1;
